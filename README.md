@@ -1,5 +1,7 @@
 # Discord-tokens-bots-nukers-self-bots
 
+Proof of concept only. Against tos. Do not run
+
 login.js - Code to login to discord with a token.
 ```
 How to login with token Go to the login page, press [CTRL] [SHIFT] [I] and paste the code into the console and hit enter. (DON'T FORGET TO EDIT THE PART THAT SAY'S "your-token-here")
