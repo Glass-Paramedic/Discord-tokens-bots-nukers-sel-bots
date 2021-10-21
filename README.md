@@ -1,5 +1,7 @@
 # Discord-tokens-bots-nukers-self-bots
 
+Will be updated later
+
 Proof of concept only. Against tos. Do not run
 
 login.js - Code to login to discord with a token.
